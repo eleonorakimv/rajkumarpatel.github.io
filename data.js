@@ -84,13 +84,13 @@ const siteData = {
   ta: {
     intro: "Prof. Patel welcomes motivated undergraduate and graduate students to join his research group as Teaching Assistants (TAs). TAs gain hands-on experience in polymer science, membrane fabrication, and materials characterization while supporting course instruction.",
     courses: [
-      "Introduction to Energy and Environmental Science",
-      "Polymer Chemistry and Engineering",
-      "Materials for Energy Conversion",
-      "Environmental Chemistry"
+      "General Chemistry",
+      "Polymer Science & Laboratory",
+      "Organic Materials and Laboratory",
+      "Physical Chemistry"
     ],
     responsibilities: [
-      "Assist in laboratory sessions and demonstrate experimental techniques",
+  
       "Support students during office hours and tutorial sessions",
       "Grade assignments, lab reports, and quizzes under professor's guidance",
       "Help prepare course materials and experimental setups",
@@ -98,10 +98,8 @@ const siteData = {
     ],
     requirements: [
       "Enrolled as a full-time undergraduate (3rd/4th year) or graduate student at Yonsei UIC",
-      "Completed at least one relevant course in chemistry, polymer science, or materials engineering",
-      "Strong academic standing (GPA 3.0 or above recommended)",
-      "Good communication skills in English",
-      "Commitment of approximately 10 hours per week"
+      "Completed the relevant course applied for a TA",
+      "Good communication skills in English & Korean",
     ],
     howToApply: "Send your CV and a brief statement of interest (max 1 page) to Prof. Patel via email. Use the subject line: 'TA Application – [Your Name] – [Semester]'. Applications are reviewed on a rolling basis. Shortlisted candidates will be invited for a short interview.",
     applicationEmail: "rajkumar@yonsei.ac.kr",
